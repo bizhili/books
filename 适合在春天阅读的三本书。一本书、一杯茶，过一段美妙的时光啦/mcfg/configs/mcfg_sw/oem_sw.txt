@@ -1,0 +1,7 @@
+mcfg_sw/generic/china/ct/commerci/openmkt/mcfg_sw.mbn
+mcfg_sw/generic/china/ct/commerci/volte_op/mcfg_sw.mbn
+mcfg_sw/generic/china/ct/lab/volte_co/mcfg_sw.mbn
+mcfg_sw/generic/china/ct/lab/cta/mcfg_sw.mbn
+mcfg_sw/generic/china/ct/lab/test/mcfg_sw.mbn
+mcfg_sw/generic/china/ct/lab/test_eps/mcfg_sw.mbn
+mcfg_sw/generic/china/ct/lab/test_no_/mcfg_sw.mbn
